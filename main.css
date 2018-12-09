@@ -1,0 +1,16 @@
+html {
+  background-color: #fff;
+  color: #181818;
+}
+
+main {
+  margin-top: 5rem;
+  width: 90%;
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #181818;
+}
